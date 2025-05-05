@@ -47,13 +47,13 @@ python gradio_app.py
 
 Here are a few example results from the comic generator. These show how the input image and the storyline come together to create a **whacky comic strip**!
 
-## Example 1: "Alice's GitHub Adventure"
+## Example 1: "Mahesh Babu's Shakespearean Mishap"
 
 ### Input:
 
-- **Image**: A photo of Alice (user-provided)
-- **Name**: Alice
-- **Storyline**: "A funny story about GitHub and coffee"
+- **Image**: A photo of Mahesh
+- **Name**: Mahesh
+- **Storyline**: "Jokes about his acting skills"
 
 ### Output:
 
