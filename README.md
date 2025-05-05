@@ -6,7 +6,7 @@ Follow these steps to set up the project locally using **Conda**:
 
 ```bash
 git clone https://github.com/Chandrahas455/Customized-Comic-Strip-Generator.git
-cd Customized_Comic_Strip_Generator
+cd Customized-Comic-Strip-Generator
 ```
 
 ##  Create Environment
