@@ -61,13 +61,13 @@ Here are a few example results from the comic generator. These show how the inpu
 
 ---
 
-## Example 2: "Bob's Coding Nightmare"
+## Example 2: "Jatin's Banana Drama"
 
 ### Input:
 
-- **Image**: A photo of Bob (user-provided)
-- **Name**: Bob
-- **Storyline**: "Bob's nightmare of code errors and debugging"
+- **Image**: A photo of Jatin
+- **Name**: Jatin
+- **Storyline**: Blank
 
 ### Output:
 
