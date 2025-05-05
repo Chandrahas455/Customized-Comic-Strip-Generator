@@ -43,6 +43,42 @@ Run the Gradio App for easy usage :
 ```bash
 python gradio_app.py
 ```
+# Example Results
+
+Here are a few example results from the comic generator. These show how the input image and the storyline come together to create a **whacky comic strip**!
+
+## Example 1: "Alice's GitHub Adventure"
+
+### Input:
+
+- **Image**: A photo of Alice (user-provided)
+- **Name**: Alice
+- **Storyline**: "A funny story about GitHub and coffee"
+
+### Output:
+
+![Alice's Comic](path_to_example_image/alice_comic.png)
+
+---
+
+## Example 2: "Bob's Coding Nightmare"
+
+### Input:
+
+- **Image**: A photo of Bob (user-provided)
+- **Name**: Bob
+- **Storyline**: "Bob's nightmare of code errors and debugging"
+
+### Output:
+
+![Bob's Comic](path_to_example_image/bob_comic.png)
+
+---
+
+> 💡 **Tip**: These are just a few examples! You can customize your own comic with any photo and storyline to create something unique.
+
+---
+
 
 
 
