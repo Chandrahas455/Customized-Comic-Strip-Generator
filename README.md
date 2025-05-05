@@ -57,7 +57,7 @@ Here are a few example results from the comic generator. These show how the inpu
 
 ### Output:
 
-![Alice's Comic](path_to_example_image/alice_comic.png)
+![Alice's Comic](Examples/Example1.png)
 
 ---
 
@@ -71,7 +71,7 @@ Here are a few example results from the comic generator. These show how the inpu
 
 ### Output:
 
-![Bob's Comic](path_to_example_image/bob_comic.png)
+![Bob's Comic](Examples/Example2.png)
 
 ---
 
