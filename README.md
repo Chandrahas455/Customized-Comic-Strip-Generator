@@ -43,6 +43,25 @@ Run the Gradio App for easy usage :
 ```bash
 python gradio_app.py
 ```
+## Run the Docker
+
+Build the docker image by following the steps below:
+
+### Set Gemini Key in .env
+```bash
+GEMINI_API_KEY = "PASTE YOUR GEMINI KEY HERE"
+```
+### Build your Docker Image
+
+```bash
+docker build -t comicstripgenerator:v1 .
+```
+
+### Run the Docker
+```bash
+docker run -it -p 7860:7860 comicstripgenerator:v1
+
+```
 # Example Results
 
 Here are a few example results from the comic generator. These show how the input image and the storyline come together to create a **whacky comic strip**!
